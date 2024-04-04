@@ -1,0 +1,12 @@
+Features of java
+
+1. Simple
+2. Object Oriented
+3. Platform independent
+4. Architecture Neutral
+5. portable
+6. Robust
+7. Secure
+8. High performance
+9. Multi-threaded
+10. Distributed
