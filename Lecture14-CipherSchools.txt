@@ -1,0 +1,10 @@
+An array is often a grouping of elements with a common type and a contiguous memory region.
+
+The array consists of a finite number of homogenous elements arranged in an indexed collection.
+
+An object with elements of a similar data type is called a Java array. 
+Furthermore, an array's items are kept in a single, contiguous memory space.
+It's a data structure used to hold related components.
+In a Java array, we can only store a fixed collection of elements.
+
+Java arrays are index-based; the array's first element is kept at index 0, the second member is kept at index 1, and so forth.
