@@ -1,0 +1,15 @@
+DATA STRUCTURES
+
+--TREE
+
+A non-linear data structure is a tree.
+Every node may link to other nodes and have some data on it.
+A Few Terminologies- Parent, Sibling, Root Child, Leaf Ancestor
+
+--SINGLE TREE
+a tree where a node can have a maximum of two children.
+
+In a proper binary tree, every node can have two children or none at all.
+Whole Binary Tree: Every level, maybe with the exception of the last, is fully filled, and every node is as far to the left as feasible.
+A perfect binary tree would have every level full to the brim.
+Balanced Binary Tree: Every node's left and right subtree height differences do not exceed k (usually k = 1).
